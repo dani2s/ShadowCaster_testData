@@ -1,0 +1,9 @@
+Arguments of ShadowCaster 
+Configuration file:
+queryProteome	/home/dani/proyectos/shadowCaster/rhodobacter_files/shadowcaster-input/Rhodanobacter_denitrificans.fasta
+blastp	/home/dani/programas/ncbi-blast-2.2.26+/bin/blastp
+proteomes	/home/dani/proyectos/shadowCaster/rhodobacter_files/ftp-output/proteomes/
+orthomcl_config	/home/dani/programas/orthomcl-pipeline/orthomcl.conf
+queryGenome	/home/dani/proyectos/shadowCaster/rhodobacter_files/shadowcaster-input/Rdenitrificans_genome.fasta
+db26	formatdb
+nuSVM	0.4
