@@ -1,0 +1,26 @@
+Downloaded species can be found in these ftp urls
+Thermococcus_profundus	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/214/585/GCF_002214585.1_ASM221458v1/
+Escherichia_coli	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/008/865/GCF_000008865.2_ASM886v2/
+Mycobacterium_tuberculosis	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/195/835/GCF_000195835.2_ASM19583v2/
+Pseudomonas_putida	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/007/565/GCF_000007565.2_ASM756v2/
+Pseudoxanthomonas_spadix	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/233/915/GCF_000233915.3_ASM23391v4/
+Dyella_jiangningensis	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/632/805/GCF_000632805.1_ASM63280v1/
+Lysobacter_capsici	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/442/785/GCF_001442785.1_ASM144278v1/
+Coxiella_burnetii	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/007/765/GCF_000007765.2_ASM776v2/
+Frateuria_aurantia	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/242/255/GCF_000242255.2_ASM24225v3/
+Bordetella_bronchiseptica	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/318/015/GCF_000318015.1_ASM31801v1/
+Xanthomonas_translucens	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/021/935/GCF_001021935.1_ASM102193v1/
+Clostridioides_difficile	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/009/205/GCF_000009205.2_ASM920v2/
+Salmonella_enterica	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/006/945/GCF_000006945.2_ASM694v2/
+Xanthomonas_gardneri	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/908/775/GCF_001908775.1_ASM190877v1/
+Stenotrophomonas_acidaminiphila	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/314/305/GCF_001314305.1_ASM131430v1/
+Dyella_thiooxydans	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/641/285/GCF_001641285.1_ASM164128v1/
+Xanthomonas_fragariae	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/705/565/GCF_001705565.1_ASM170556v1/
+Dokdonella_koreensis	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/632/775/GCF_001632775.1_ASM163277v1/
+Xanthomonas_citri	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/218/245/GCF_002218245.1_ASM221824v1/
+Stenotrophomonas_nitritireducens	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/700/965/GCF_001700965.1_ASM170096v1/
+Lysobacter_antibioticus	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/442/535/GCF_001442535.1_ASM144253v1/
+Flavobacterium_psychrophilum	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/064/305/GCF_000064305.2_ASM6430v2/
+Stenotrophomonas_rhizophila	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/704/155/GCF_001704155.1_ASM170415v1/
+Thermococcus_thioreducens	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/214/545/GCF_002214545.1_ASM221454v1/
+Xanthomonas_oryzae	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/019/585/GCF_000019585.2_ASM1958v2/
